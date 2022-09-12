@@ -6,5 +6,7 @@ public class lab1{
 		System.out.println();
 		System.out.println("Eclipse works");
 		System.out.println();
+		
+		System.out.println();
 	}
 }
