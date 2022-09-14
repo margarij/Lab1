@@ -8,5 +8,6 @@ public class lab1{
 		System.out.println();
 		
 		System.out.println();
+		System.out.println("what if i did it again?");
 	}
 }
